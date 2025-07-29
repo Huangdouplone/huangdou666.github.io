@@ -15,7 +15,7 @@ name                     : &name "黄豆"
 description              : &description "大半年不更新的鸽子"
 url                      : https://huangdou666.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Huangdouplone/huangdou666.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "https://s21.ax1x.com/2025/07/30/pVY75yF.jpg"
   name             : "黄豆666"
-  pronouns         : "鸽子"# example: "she/her"  
+  pronouns         : "鸽子" # example: "she/her"  
   bio              : "咕？"
   location         : "Outer universe"
   employer         : "灵界第一人民大学"
@@ -46,7 +46,7 @@ author:
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
-  dribbble         : # Username
+  dribbble         : #
   github           : "Huangdouplone"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
