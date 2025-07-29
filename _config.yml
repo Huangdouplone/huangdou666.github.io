@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-zh"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "鸽子的梦之乡"
 title_separator          : "-"
